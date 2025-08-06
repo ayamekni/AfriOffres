@@ -1,0 +1,29 @@
+2025-08-06 15:54:56,684 - __main__ - WARNING - Sample data file not found
+2025-08-06 15:54:56,686 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-06 15:54:56,686 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-06 15:54:56,686 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-06 15:54:56,687 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-06 15:54:56,688 - __main__ - INFO - Scheduled scrapers
+2025-08-06 15:54:56,689 - __main__ - INFO - Starting all scrapers
+2025-08-06 15:54:56,690 - __main__ - INFO - Starting scraper for nigeria
+2025-08-06 15:54:56,690 - nigeria_scraper - INFO - Starting to scrape tenders from Nigeria
+2025-08-06 15:54:56,690 - nigeria_scraper - INFO - Successfully scraped 5 tenders from Nigeria
+2025-08-06 15:54:56,815 - __main__ - INFO - Saved 5 tenders from nigeria
+2025-08-06 15:54:56,815 - __main__ - INFO - Completed scraper for nigeria. Found 5 tenders
+2025-08-06 15:54:56,815 - __main__ - INFO - Starting scraper for kenya
+2025-08-06 15:54:56,815 - kenya_scraper - INFO - Starting to scrape tenders from Kenya
+2025-08-06 15:54:56,815 - kenya_scraper - INFO - Successfully scraped 2 tenders from Kenya
+2025-08-06 15:54:56,819 - __main__ - INFO - Saved 2 tenders from kenya
+2025-08-06 15:54:56,819 - __main__ - INFO - Completed scraper for kenya. Found 2 tenders
+2025-08-06 15:54:56,819 - __main__ - INFO - Starting scraper for ghana
+2025-08-06 15:54:56,819 - ghana_scraper - INFO - Starting to scrape tenders from Ghana
+2025-08-06 15:54:56,819 - ghana_scraper - INFO - Successfully scraped 2 tenders from Ghana
+2025-08-06 15:54:56,822 - __main__ - INFO - Saved 2 tenders from ghana
+2025-08-06 15:54:56,823 - __main__ - INFO - Completed scraper for ghana. Found 2 tenders
+2025-08-06 15:54:56,823 - __main__ - INFO - Completed all scrapers
+2025-08-06 15:54:56,823 - __main__ - INFO - Starting scheduler...
+2025-08-06 15:54:56,825 - apscheduler.scheduler - INFO - Added job "Scrape all countries every 6 hours" to job store "default"
+2025-08-06 15:54:56,825 - apscheduler.scheduler - INFO - Added job "Scrape Nigeria daily at midnight" to job store "default"
+2025-08-06 15:54:56,825 - apscheduler.scheduler - INFO - Added job "Scrape Kenya daily at 2 AM" to job store "default"
+2025-08-06 15:54:56,826 - apscheduler.scheduler - INFO - Added job "Scrape Ghana daily at 4 AM" to job store "default"
+2025-08-06 15:54:56,826 - apscheduler.scheduler - INFO - Scheduler started

@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Software Development Consultant for E-Government Platform",
+    "description": "The Ministry of Digital Transformation is seeking a qualified software development consultant to assist in the development of a comprehensive e-government platform. The consultant will work on modernizing government services and improving citizen access to public services.",
+    "organization": "Ministry of Digital Transformation",
+    "country": "Nigeria",
+    "category": "Technology",
+    "status": "Open",
+    "deadline": "2024-02-15T23:59:59Z",
+    "budget": "500000",
+    "currency": "USD",
+    "requirements": [
+      "Minimum 5 years experience in software development",
+      "Experience with React, Node.js, and MongoDB",
+      "Knowledge of government systems and compliance",
+      "Excellent communication skills"
+    ],
+    "contact_email": "procurement@digital.gov.ng",
+    "contact_phone": "+234-1-234-5678",
+    "website": "https://digital.gov.ng",
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "title": "Infrastructure Development Project Manager",
+    "description": "The Department of Public Works is looking for an experienced project manager to oversee the development of critical infrastructure projects including roads, bridges, and public buildings across the region.",
+    "organization": "Department of Public Works",
+    "country": "Kenya",
+    "category": "Infrastructure",
+    "status": "Open",
+    "deadline": "2024-03-01T23:59:59Z",
+    "budget": "750000",
+    "currency": "USD",
+    "requirements": [
+      "Bachelor's degree in Civil Engineering or related field",
+      "PMP certification preferred",
+      "Minimum 8 years project management experience",
+      "Experience with government infrastructure projects"
+    ],
+    "contact_email": "procurement@publicworks.go.ke",
+    "contact_phone": "+254-20-123-4567",
+    "website": "https://publicworks.go.ke",
+    "created_at": "2024-01-20T14:30:00Z"
+  },
+  {
+    "title": "Healthcare System Modernization Consultant",
+    "description": "The Ministry of Health is seeking a healthcare IT consultant to modernize the national healthcare information system, improve patient data management, and enhance healthcare delivery across the country.",
+    "organization": "Ministry of Health",
+    "country": "Ghana",
+    "category": "Healthcare",
+    "status": "Open",
+    "deadline": "2024-02-28T23:59:59Z",
+    "budget": "300000",
+    "currency": "USD",
+    "requirements": [
+      "Experience in healthcare IT systems",
+      "Knowledge of HL7 and FHIR standards",
+      "Experience with electronic health records",
+      "Understanding of healthcare regulations"
+    ],
+    "contact_email": "procurement@health.gov.gh",
+    "contact_phone": "+233-30-123-4567",
+    "website": "https://health.gov.gh",
+    "created_at": "2024-01-18T09:15:00Z"
+  },
+  {
+    "title": "Agricultural Technology Innovation Specialist",
+    "description": "The Agricultural Development Agency is looking for a specialist to implement innovative agricultural technologies, improve crop yields, and support sustainable farming practices across rural communities.",
+    "organization": "Agricultural Development Agency",
+    "country": "Ethiopia",
+    "category": "Agriculture",
+    "status": "Open",
+    "deadline": "2024-03-15T23:59:59Z",
+    "budget": "250000",
+    "currency": "USD",
+    "requirements": [
+      "Master's degree in Agricultural Science or related field",
+      "Experience with precision agriculture technologies",
+      "Knowledge of sustainable farming practices",
+      "Experience working with rural communities"
+    ],
+    "contact_email": "procurement@agriculture.gov.et",
+    "contact_phone": "+251-11-123-4567",
+    "website": "https://agriculture.gov.et",
+    "created_at": "2024-01-22T16:45:00Z"
+  },
+  {
+    "title": "Education Technology Platform Developer",
+    "description": "The Ministry of Education is seeking a developer to create an online learning platform that will provide educational resources to students across the country, especially in remote areas.",
+    "organization": "Ministry of Education",
+    "country": "South Africa",
+    "category": "Education",
+    "status": "Open",
+    "deadline": "2024-02-20T23:59:59Z",
+    "budget": "400000",
+    "currency": "USD",
+    "requirements": [
+      "Experience with e-learning platforms",
+      "Knowledge of educational technology standards",
+      "Experience with mobile app development",
+      "Understanding of accessibility requirements"
+    ],
+    "contact_email": "procurement@education.gov.za",
+    "contact_phone": "+27-12-123-4567",
+    "website": "https://education.gov.za",
+    "created_at": "2024-01-25T11:20:00Z"
+  }
+] 
